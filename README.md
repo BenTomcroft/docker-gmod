@@ -1,4 +1,7 @@
 # docker-gmod
+
+!! Forked from https://github.com/Laynezilla/docker-gmod originally
+
 Garry's Mod server base with CS:S content. Can be used for other gamemodes, just change the map, workshop collection, and gamemode environment variables.
 
 ## Example Usages
